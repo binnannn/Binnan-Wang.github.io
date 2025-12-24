@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+Hi! I'm a second-year PhD student from [School of Mathematical Sciences](https://www.math.pku.edu.cn/) and [Laboratory for Mathematical Economics and Quantitative Finance](https://lmeqf.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), under the supervision of Professor [Ruixun Zhang](https://ruixunzhang.com/). 
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I received my B.S. in Mathematics and Applied Mathematics and B.S. in Economics (double degree) from Peking University in 2024. 
+
+**Research Interests**: Path signature, statistical properties of machine learning, and quantitative finance. 
+
+**Contact**: wangbinnan \[at\] pku \[dot\] edu \[dot\] cn
+
+*Don't hesitate to drop me an email if you are interested in cooperating with me!*
